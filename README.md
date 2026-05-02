@@ -2,6 +2,8 @@
 
 # 📊 ReviewAI Tech & Solutions
 ### Market Research Report — Business & Marketing Strategy
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]linkedin.com/in/mvvs-lakshmi-vara-prasad
+🌐 Live Demo: https://mvvslvprasad.github.io/reviewai-market-research/
 
 [![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-0A1931?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.codealpha.tech)
 [![Task](https://img.shields.io/badge/Task-1%20Market%20Research-1A56DB?style=for-the-badge)](https://www.codealpha.tech)
