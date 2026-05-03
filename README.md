@@ -204,7 +204,7 @@ python src/generate_report.py
 
 ## 👤 About the Author
 
-**[Your Name]**  
+**Mvvs Lakshmi vara Prasad**  
 Business & Marketing Strategy Intern @ CodeAlpha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
